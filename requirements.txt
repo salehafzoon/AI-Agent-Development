@@ -11,3 +11,4 @@ accelerate
 sentence-transformers
 langchain_huggingface
 ipywidgets
+faiss-cpu
