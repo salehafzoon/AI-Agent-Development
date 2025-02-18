@@ -1,15 +1,3 @@
-langchain 
-langchain_community 
-langchain_openai 
-beautifulsoup4 
-python-dotenv 
-langchainhub
-sentence-transformers
-torch 
-transformers
-accelerate
-sentence-transformers
-langchain_huggingface
 duckduckgo-search
 boto3 
 streamlit
