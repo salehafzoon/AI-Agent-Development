@@ -1,11 +1,11 @@
 # WebSearch Demo (AI Agent + Streamlit)
 ![Python](https://img.shields.io/badge/Python-Compatible-green.svg)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 Includes:
 - Web Search tool (DuckDuckGo)
-- Steamlit search UI
+- Streamlit search UI
 
 ## Environment variables setup:
 - Create the .env file that contains the following variables:
