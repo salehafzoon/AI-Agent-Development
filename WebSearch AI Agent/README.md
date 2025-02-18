@@ -8,7 +8,7 @@ Includes:
 - Retriever tool
 - Web Search tool
 - OpenAI-based chat interface
-- Open-source-based chat interfaces
+- Open-source-based chat interfaces (working on it...)
 
 ## Environment variables setup:
 - Create the .env file that contains following variables:
