@@ -6,7 +6,7 @@
 LangChain 🦜
 
 Includes:
-- Retriever and Search tool(Tavily) + OpenAI API Call + Open-Source LLMs from HuggingFace
+- Retriever and Search tool (Tavily) + OpenAI API Call + Open-Source LLMs from HuggingFace
 - Web Search tool (DuckDuckGo) + AWS Titan API Call + Streamlit Search UI
 
 ## Getting Started
